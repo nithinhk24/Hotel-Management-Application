@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1493039613 source:c:\users\nithin\hotel management code\main.cpp
+	"classes.h"
+	"functions.h"
+
+1493039762 c:\users\nithin\hotel management code\classes.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+
+1493039478 c:\users\nithin\hotel management code\functions.h
+
+1500832207 source:n:\oops open ended expt\hotel management code\main.cpp
+	"classes.h"
+	"functions.h"
+
+1493039762 n:\oops open ended expt\hotel management code\classes.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+
+1493039478 n:\oops open ended expt\hotel management code\functions.h
+
